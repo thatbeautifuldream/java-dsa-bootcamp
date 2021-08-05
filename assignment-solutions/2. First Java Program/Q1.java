@@ -10,4 +10,4 @@ class Q1{
      }    
      System.out.println("Factorial of "+number+" is: "+fact);    
     }  
-   }  
+}
