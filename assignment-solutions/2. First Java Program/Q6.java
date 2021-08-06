@@ -1,10 +1,9 @@
 import java.util.*;
 public class Q6 {
-    private static Scanner sc;
 	public static void main(String[] args) 
 	{
 		int num1, num2;
-		sc = new Scanner(System.in);
+		Scanner sc = new Scanner( System.in );
 		
 		System.out.print(" Please Enter the First Number : ");
 		num1 = sc.nextInt();	
@@ -23,6 +22,7 @@ public class Q6 {
 	    else 
 	    {
 	    	System.out.println("\n Both are Equal");
-	    }		
+	    }
+		sc.close();		
 	}
 }
