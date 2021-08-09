@@ -369,10 +369,12 @@
     </footer>
     <!-- footer ends -->
 
-    <script>
-      if ("serviceWorker" in navigator) {
-        navigator.serviceWorker.register("sw.js");
-      }
-    </script>
+    <!-- Install button, hidden by default -->
+    <div id="installContainer" class="hidden">
+      <button id="butInstall" type="button">Install</button>
+    </div>
+
+    <!-- import the webpage's javascript file -->
+    <script src="/script.js" defer></script>
   </body>
 </html>
