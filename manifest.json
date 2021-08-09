@@ -1,7 +1,7 @@
 {
   "name": "Java DSA Bootcamp",
   "short_name": "Assignment Solutions",
-  "start_url": "/",
+  "start_url": "/?home=true",
   "icons": [
     {
       "src": "icons/manifest-icon-192.png",
