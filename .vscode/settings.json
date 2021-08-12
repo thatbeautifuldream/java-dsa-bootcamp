@@ -1,6 +1,7 @@
 {
   "java.project.sourcePaths": [
     "assignment-solutions/3. Conditional and Loops/1. Basic Java Program",
-    "Assignment Solutions/3. Conditional and Loops/2. Intermediate Java Programs"
+    "Assignment Solutions/3. Conditional and Loops/2. Intermediate Java Programs",
+    "Assignment Solutions/4. Functions"
   ]
 }
