@@ -1,3 +1,4 @@
+package Functions;
 import java.util.*;
 public class PrimeNumbersInInterval {
     public static void main(String[] args){
