@@ -1,5 +1,5 @@
 //  Problem Link : https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
-package Arrays;
+package Arrays.Easy;
 
 public class HowManyNumbersAreSmallerThantheCurrentNumber {
     public int[] smallerNumbersThanCurrent(int[] nums) {

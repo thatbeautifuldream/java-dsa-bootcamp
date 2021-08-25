@@ -1,6 +1,6 @@
 // Shuffle the Array
 // Problem Link : https://leetcode.com/problems/shuffle-the-array/
-package Arrays;
+package Arrays.Easy;
 
 public class ShuffletheArray {
     public int[] shuffle(int[] nums, int n) {

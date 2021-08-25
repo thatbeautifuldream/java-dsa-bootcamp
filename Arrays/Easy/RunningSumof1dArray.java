@@ -1,6 +1,6 @@
 // Running Sum of 1d Array
 // Problem Link : https://leetcode.com/problems/running-sum-of-1d-array/
-package Arrays;
+package Arrays.Easy;
 
 public class RunningSumof1dArray {
     public int[] runningSum(int[] nums) {

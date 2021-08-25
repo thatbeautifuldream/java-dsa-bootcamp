@@ -1,6 +1,6 @@
 // Richest Customer Wealth
 // Problem Link : https://leetcode.com/problems/richest-customer-wealth/
-package Arrays;
+package Arrays.Easy;
 
 public class RichestCustomerWealth {
     public int maximumWealth(int[][] accounts) {

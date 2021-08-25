@@ -1,6 +1,6 @@
 // Concatenation of Array
 // Problem Link : https://leetcode.com/problems/concatenation-of-array/
-package Arrays;
+package Arrays.Easy;
 
 public class ConcatenationofArray {
     public int[] getConcatenation(int[] nums) {

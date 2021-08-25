@@ -1,5 +1,5 @@
 // Problem Link : https://leetcode.com/problems/
-package Arrays;
+package Arrays.Easy;
 import java.util.ArrayList;
 public class CreateTargetArrayintheGivenOrder {
     public int[] createTargetArray(int[] nums, int[] index) {

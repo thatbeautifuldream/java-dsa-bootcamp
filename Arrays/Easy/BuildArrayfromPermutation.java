@@ -1,6 +1,6 @@
 // BuildArrayfromPermutation
 // Problem Link : https://leetcode.com/problems/build-array-from-permutation/
-package Arrays;
+package Arrays.Easy;
 
 public class BuildArrayfromPermutation {
     public int[] buildArray(int[] nums) {

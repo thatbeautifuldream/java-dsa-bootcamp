@@ -1,5 +1,5 @@
 // Problem Link : https://leetcode.com/problems/number-of-good-pairs/
-package Arrays;
+package Arrays.Easy;
 
 public class NumberofGoodPairs {
     public int numIdenticalPairs(int[] nums) {

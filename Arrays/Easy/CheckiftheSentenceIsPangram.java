@@ -1,5 +1,5 @@
 // Problem Link : https://leetcode.com/problems/check-if-a-string-is-a-pangram/
-package Arrays;
+package Arrays.Easy;
 
 public class CheckiftheSentenceIsPangram {
     public boolean checkIfPangram(String str) {
