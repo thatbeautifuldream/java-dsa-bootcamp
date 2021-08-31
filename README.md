@@ -1,4 +1,4 @@
-# [Java DSA Bootcamp Course Blog](https://thatbeautifuldream.github.io/java-dsa-bootcamp/)
+# [Java DSA Bootcamp Blog](https://thatbeautifuldream.github.io/java-dsa-bootcamp/)
 
 ![banner](https://github.com/thatbeautifuldream/java-dsa-bootcamp/blob/main/Images/repo-banner.jpeg)
 
