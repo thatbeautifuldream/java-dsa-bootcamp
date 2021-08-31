@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Java DSA Bootcamp
 
 You can use the [editor on GitHub](https://github.com/thatbeautifuldream/java-dsa-bootcamp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
