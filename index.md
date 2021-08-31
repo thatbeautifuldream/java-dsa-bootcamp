@@ -1,7 +1,5 @@
 ## Assignment Solutions
 
-![banner](https://github.com/thatbeautifuldream/java-dsa-bootcamp/blob/main/Images/repo-banner.jpeg)
-
 This repository consists of solutions for the Community Classroom complete Data Structures & Algorithms Java Bootcamp assignments.
 
 # Syllabus
@@ -183,6 +181,6 @@ This repository consists of solutions for the Community Classroom complete Data 
   - Bellman ford
   - A\* pathfinding Algorithm
 
-## Assignment Author
+## Assignment Author : 
 
-- [@thatbeautifuldream](https://www.github.com/thatbeautifuldream)
+- [Milind Mishra](https://milind.bio.link)
