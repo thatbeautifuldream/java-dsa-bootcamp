@@ -1,10 +1,8 @@
-## Assignment Solutions
+# Assignment Solutions
 
 This repository consists of solutions for the Community Classroom complete Data Structures & Algorithms Java Bootcamp assignments.
 
-# Syllabus
-
-## Lectures
+## Syllabus
 
 - Introduction to Git
 - Introduction to Programming
@@ -180,6 +178,18 @@ This repository consists of solutions for the Community Classroom complete Data 
   - Topological Sort
   - Bellman ford
   - A\* pathfinding Algorithm
+
+## Assignments
+
+- Flow of Program [Problem](1-flow-of-program.md)
+- First Java [Problem]()
+- Conditionals and Loops [Problem]()
+- Patterns [Problem]()
+- Functions [Problem]()
+- Arrays [Problem]()
+- Searching [Problem]()
+- Sorting [Problem]()
+
 
 ## Assignment Author : 
 
