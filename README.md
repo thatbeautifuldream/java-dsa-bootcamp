@@ -6,4 +6,4 @@ This repository consists of solutions for the Community Classroom complete Data 
 
 ## Assignment Author
 
-- [@thatbeautifuldream](https://www.github.com/thatbeautifuldream)
+- [Milind Mishra](https://milind.bio.link){:target="_blank"}
