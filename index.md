@@ -6,8 +6,8 @@ This repository consists of solutions for the Community Classroom complete Data 
 
 ## Assignments
 
-- Flow of Program [Problem](assignments/1-flow-of-program.md)
-- First Java [Problem](assignments/2-first-java.md)
+- Flow of Program [Problem](assignments/1-flow-of-program.md) 
+- First Java [Problem](assignments/2-first-java.md) [Solution](solutions/2-first-java.md)
 - Conditionals and Loops [Problem](assignments/3-conditionals-loops.md)
 - Patterns [Problem](assignments/patterns.md)
 - Functions [Problem](assignments/4-functions.md)
