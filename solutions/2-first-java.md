@@ -28,3 +28,19 @@ find Simple Interest.
 6. Input currency in rupee and output in dollar.
 
 <script src="https://emgithub.com/embed.js?target=https%3A%2F%2Fgithub.com%2Fthatbeautifuldream%2Fjava-dsa-bootcamp%2Fblob%2Fmain%2FFirst%2520Java%2520Program%2FQ6.java&style=github&showBorder=on&showLineNumbers=on&showFileMeta=on&showCopy=on"></script>
+
+7. Input a number and print all the factors of that number (use loops).
+
+<script src="https://emgithub.com/embed.js?target=https%3A%2F%2Fgithub.com%2Fthatbeautifuldream%2Fjava-dsa-bootcamp%2Fblob%2Fmain%2FFirst%2520Java%2520Program%2FQ7.java&style=github&showBorder=on&showLineNumbers=on&showFileMeta=on&showCopy=on"></script>
+
+8. Input currency in rupee and output in dollar.
+
+<script src="https://emgithub.com/embed.js?target=https%3A%2F%2Fgithub.com%2Fthatbeautifuldream%2Fjava-dsa-bootcamp%2Fblob%2Fmain%2FFirst%2520Java%2520Program%2FQ8.java&style=github&showBorder=on&showLineNumbers=on&showFileMeta=on&showCopy=on"></script>
+
+9. Take integer inputs till the user enters 0 and print the sum of all numbers (HINT: while loop)
+
+<script src="https://emgithub.com/embed.js?target=https%3A%2F%2Fgithub.com%2Fthatbeautifuldream%2Fjava-dsa-bootcamp%2Fblob%2Fmain%2FFirst%2520Java%2520Program%2FQ9.java&style=github&showBorder=on&showLineNumbers=on&showFileMeta=on&showCopy=on"></script>
+
+10. Take integer inputs till the user enters 0 and print the largest number from all.
+
+<script src="https://emgithub.com/embed.js?target=https%3A%2F%2Fgithub.com%2Fthatbeautifuldream%2Fjava-dsa-bootcamp%2Fblob%2Fmain%2FFirst%2520Java%2520Program%2FQ10.java&style=github&showBorder=on&showLineNumbers=on&showFileMeta=on&showCopy=on"></script>
