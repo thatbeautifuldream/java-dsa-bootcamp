@@ -1,6 +1,4 @@
-# Assignment Solutions
-
-This repository consists of solutions for the Community Classroom complete Data Structures & Algorithms Java Bootcamp assignments.
+# Java DSA Bootcamp
 
 ## [Syllabus](SYLLABUS.md)
 
