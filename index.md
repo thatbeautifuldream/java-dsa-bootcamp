@@ -1,4 +1,4 @@
-# Java DSA Bootcamp
+# Java DSA Bootcamp | [Visit Kunal's Repository](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java){:target="_blank"}
 
 ## [Syllabus](SYLLABUS.md)
 
