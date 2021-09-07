@@ -2,7 +2,7 @@
 
 Go to [Kunal Kushwaha's](https://github.com/kunal-kushwaha) course repository : [Java DSA Bootcamp](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
 
-![github-repo-banner](https://opengraph.githubassets.com/ce113382d6b7f8acbd2eeda66a2c053fcbb98e940a381af3a4fd0b560fc536ec/thatbeautifuldream/java-dsa-bootcamp)
+![github-repo-banner](https://socialify.git.ci/thatbeautifuldream/java-dsa-bootcamp/image?description=1&language=1&owner=1&theme=Dark)
 
 This repository consists of solutions for the Community Classroom complete Data Structures & Algorithms Java Bootcamp assignments.
 
