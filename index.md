@@ -1,6 +1,10 @@
-# Java DSA Bootcamp | Visit Kunal's [Repository](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java){:target="_blank"}
+# Java DSA Bootcamp | Java | DSA | Leetcode Problems
+
+![java-dsa-bootcamp](https://socialify.git.ci/thatbeautifuldream/java-dsa-bootcamp/image?description=1&language=1&owner=1&pattern=Floating%20Cogs&theme=Dark)
 
 ## [Syllabus](SYLLABUS.md)
+
+### Visit Kunal's [Repository](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java){:target="_blank"}
 
 ## Assignments
 
