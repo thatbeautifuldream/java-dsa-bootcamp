@@ -15,7 +15,7 @@
 
 ## Lectures By ☕️
 
-- [Kunal Kushwaha](https://github.com/kunal-kushwaha)
+- [Kunal Kushwaha](https://github.com/kunal-kushwaha){:target="_blank"}
 
 ## Assignments 📚
 
