@@ -6,6 +6,14 @@
 
 ### Visit Kunal's [Repository](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java){:target="_blank"}
 
+## Lecture Notes / Code
+
+- First Java Program [Notes](lectures/first-java-program.md)
+- Conditionals and Loops [Notes](lectures/conditionals-loops.md)
+- Functions / Methods [Notes](lectures/methods.md)
+- 
+
+
 ## Assignments
 
 - Flow of Program [Problem](assignments/1-flow-of-program.md) 
