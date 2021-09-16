@@ -12,7 +12,6 @@
 - Conditionals and Loops [Notes](lectures/conditionals-loops.md)
 - Functions / Methods [Notes](lectures/methods.md)
 - Arrays [Notes](lectures/arrays.md)
--
 
 ## Lectures By ☕️
 
