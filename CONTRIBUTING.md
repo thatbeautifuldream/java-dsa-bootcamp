@@ -5,6 +5,7 @@ Hello 👋. This is a repository for the Java DSA Bootcamp, open for contributin
 ### Types of contribution you can make
 
 Throughout the course there are two modes of contribution, as listed below:
+
 📌Note: Contribution is, only allowed for the theory part of the course and not the assignments/problem sets.
 
 1. Documentation
