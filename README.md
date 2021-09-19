@@ -1,4 +1,4 @@
-# [Blog (⚠️ accepting contributors now 👷🏻‍♂️)](https://thatbeautifuldream.github.io/java-dsa-bootcamp/)
+# [Blog (⚠️ accepting contributors now 👷🏻‍♂️)](https://thatbeautifuldream.github.io/java-dsa-bootcamp/) [🚨 Contribution Guidelines 🚨](https://github.com/thatbeautifuldream/java-dsa-bootcamp/blob/gh-pages/CONTRIBUTING.md)
 
 Go to [Kunal Kushwaha's](https://github.com/kunal-kushwaha) course repository : [Java DSA Bootcamp](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
 
@@ -9,3 +9,5 @@ This repository consists of solutions for the Community Classroom complete Data 
 ## Assignment Author
 
 - [Milind Mishra](https://milind.bio.link)
+
+## 
