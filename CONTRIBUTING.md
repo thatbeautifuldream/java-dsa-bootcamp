@@ -21,4 +21,4 @@ Throughout the course there are two modes of contribution, as listed below:
 - Presentable and Clear
 - Accepted via YouTube
 
-📌Note: For video files, only link should be added to the repository with description of the video.
+📌Note: `For video files, only link should be added to the repository with description of the video`
