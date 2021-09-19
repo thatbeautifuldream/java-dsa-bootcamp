@@ -1,2 +1,11 @@
-# java-dsa-bootcamp
-This repository consists of solutions for the Community Classroom complete DSA Java Bootcamp assignment problems.
+# [Blog (⚠️ accepting contributors now 👷🏻‍♂️)](https://thatbeautifuldream.github.io/java-dsa-bootcamp/)
+
+Go to [Kunal Kushwaha's](https://github.com/kunal-kushwaha) course repository : [Java DSA Bootcamp](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
+
+![java-dsa-bootcamp](https://socialify.git.ci/thatbeautifuldream/java-dsa-bootcamp/image?description=1&language=1&owner=1&pattern=Floating%20Cogs&theme=Dark)
+
+This repository consists of solutions for the Community Classroom complete Data Structures & Algorithms Java Bootcamp assignments.
+
+## Assignment Author
+
+- [Milind Mishra](https://milind.bio.link)
