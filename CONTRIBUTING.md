@@ -16,7 +16,6 @@ Throughout the course there are two modes of contribution, as listed below:
 2. Video
 
 - Animations, screen-recordings, presentations and regular explanatory films are all possibilties
-- Video length should not exceed more than 25 min
 - Presentable and Clear
 - Accepted via YouTube
 
