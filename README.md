@@ -7,7 +7,7 @@ Go to [`Kunal Kushwaha's 👨🏻‍💻`](https://github.com/kunal-kushwaha) co
 
 ## Assignment Author [`👷🏻‍♂️ LeetCode Profile 🚀`](https://leetcode.com/thatbeautifuldream/)
 
-- [`Milind Mishra 👨🏻‍💻`](https://milind.bio.link)
+- [`👨🏻‍💻 Milind Mishra 👨🏻‍💻`](https://milind.bio.link)
 
 
 ## Contributors [`🚨 Guidelines 🚨`](https://github.com/thatbeautifuldream/java-dsa-bootcamp/blob/gh-pages/CONTRIBUTING.md)
