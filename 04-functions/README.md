@@ -1,4 +1,6 @@
-# [Video Link](https://youtu.be/vvanI8NRlSI)
+![](https://cc-og-image.vercel.app/functions%20(assignment).png?theme=dark&md=1&fontFamily=source-sans-pro&fontSize=100px&images=https%3A%2F%2Fcc-vocabulary.netlify.app%2Flogos%2Fproducts%2Fopen_source.svg%23opensource)
+
+[Video Link](https://youtu.be/vvanI8NRlSI)
 
 1. [Define two methods to print the maximum and the minimum number respectively among three numbers entered by the user.](https://www.java67.com/2019/05/how-to-find-largest-and-smallest-of-three-numbers-in-java.html)
 
