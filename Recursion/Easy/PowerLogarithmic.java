@@ -11,9 +11,6 @@ public class PowerLogarithmic {
         if (k == 0) {
             return 1; // n^0 = 1
         }
-        if (k == 1) {
-            return n; // n^1 = n
-        }
         if (k % 2 == 0) {
             return power(n * n, k / 2); // n^k = n^(k/2) * n^(k/2); given k is even
         } else {
