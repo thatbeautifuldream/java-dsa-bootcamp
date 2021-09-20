@@ -3,7 +3,6 @@
 ## Submit the following on your Leetcode profile itself.
 
 ### Easy
-
 1. [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)
 2. [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
 3. [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
@@ -26,12 +25,18 @@
 20. [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/)
 21. [Two Sum](https://leetcode.com/problems/two-sum/)
 22. [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
+23. [Saddle Point In Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)
+24. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+25. [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
 
 ### Medium
-
 1. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 2. [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 3. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 4. [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 5. [Jump Game](https://leetcode.com/problems/jump-game/)
 6. [Rotate Array](https://leetcode.com/problems/rotate-array/)
+
+### Hard
+1. [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/)
+2. [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
