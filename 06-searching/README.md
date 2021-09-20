@@ -1,13 +1,12 @@
 # Videos:
-
 - [Linear Search](https://youtu.be/_HRA37X8N_Q)
 - [Binary Search](https://youtu.be/f6UU7V3szVw)
 - [Binary Search Questions](https://youtu.be/W9QJ8HaRvJQ)
+- [Binary Search in 2D Arrays](https://youtu.be/enI_KyGLYPo)
 
 # Problems:
 
 ## Easy
-
 - [Square Root](https://leetcode.com/problems/sqrtx/)
 - [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
 - [First Bad Version](https://leetcode.com/problems/first-bad-version/)
@@ -27,7 +26,6 @@
 - [Binary Search](https://leetcode.com/problems/binary-search/)
 
 ## Medium
-
 - [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 - [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
 - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
@@ -43,9 +41,10 @@
 - [Find a Peak Element II](https://leetcode.com/problems/find-a-peak-element-ii/)
 - [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)
 - [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+- [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
+- [4 Sum](https://leetcode.com/problems/4sum/)
 
 ## Hard
-
 - [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 - [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)
 - [Aggressive cows](https://www.spoj.com/problems/AGGRCOW/)
@@ -53,3 +52,4 @@
 - [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)
 - [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)
 - [Count smaller number after Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
+- [Divide Chocolate Problem](https://curiouschild.github.io/leetcode/2019/06/21/divide-chocolate.html)
