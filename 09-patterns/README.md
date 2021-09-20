@@ -1,3 +1,5 @@
+![](https://cc-og-image.vercel.app/patterns%20(assignment).png?theme=dark&md=1&fontFamily=source-sans-pro&fontSize=100px&images=https%3A%2F%2Fcc-vocabulary.netlify.app%2Flogos%2Fproducts%2Fopen_source.svg%23opensource)
+
 Pattern Questions
 
 Print these patterns using loops:
