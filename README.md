@@ -10,7 +10,7 @@ Go to [`Kunal Kushwaha's 👨🏻‍💻`](https://github.com/kunal-kushwaha) co
 - [`👨🏻‍💻 Milind Mishra 👨🏻‍💻`](https://milind.bio.link)
 
 
-## Contributors [🚨 `Guidelines` 🚨](https://github.com/thatbeautifuldream/java-dsa-bootcamp/blob/gh-pages/CONTRIBUTING.md)
+## Contributors 🚨 [`Guidelines`](https://github.com/thatbeautifuldream/java-dsa-bootcamp/blob/gh-pages/CONTRIBUTING.md) 🚨
 
 ![](https://cc-og-image.vercel.app/java-dsa-bootcamp.png?theme=dark&md=1&fontFamily=source-sans-pro&fontSize=100px&images=https%3A%2F%2Fcc-vocabulary.netlify.app%2Flogos%2Fproducts%2Fopen_source.svg%23opensource)
 
