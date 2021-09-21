@@ -1,4 +1,4 @@
-Problem Link : 
+Problem Link : https://leetcode.com/problems/power-of-two/
 
 class Solution {
     public boolean isPowerOfTwo(int n) {
