@@ -19,7 +19,7 @@ class Solution {
             }
             else{
                 count = count + end - mid + 1;
-                end = mid -1;
+                end = mid - 1;
             }
             
         }
