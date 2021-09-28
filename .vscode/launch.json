@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch RecursiveBinarySearch",
+      "request": "launch",
+      "mainClass": "RecursiveBinarySearch",
+      "projectName": "java-dsa-bootcamp_b1f876ef"
+    },
+    {
+      "type": "java",
       "name": "Launch RecursiveSummation",
       "request": "launch",
       "mainClass": "RecursiveSummation",
