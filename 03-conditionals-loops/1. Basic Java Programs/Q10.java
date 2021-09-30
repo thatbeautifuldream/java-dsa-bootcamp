@@ -1,13 +1,11 @@
-import java.util.*;
-public class Q10 {
+import java.util.Scanner;
+public class area_Parallelogram {
     public static void main(String[] args) {
-        // Perimeter Of Parallelogram
-        Scanner scanner = new Scanner(System.in);
-        System.out.println("Enter base and height of the parallelogram");
-        double base = scanner.nextDouble();
-        double height = scanner.nextDouble();
-        double perimeter = (base * 2) + (height * 2);
-        System.out.println("Perimeter of the parallelogram is " + perimeter);
-        scanner.close();
+        Scanner in= new Scanner(System.in);
+        System.out.println("enter the base of Parallelogram: ");
+        float base= in.nextFloat();
+        System.out.println("enter the height of Parallelogram: ");
+        float height= in.nextFloat();
+        System.out.println("ans is: " +(base*height));
     }
 }
