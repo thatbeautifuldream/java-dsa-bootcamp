@@ -1,14 +1,12 @@
-import java.util.*;
-public class Q13 {
-    public static void main(String[] args){
-        // perimeter of rhombus
-        Scanner sc = new Scanner(System.in);
-        System.out.println("Enter the length of one side of the rhombus: ");
-        double side = sc.nextDouble();
-        System.out.println("Enter the length of the other side of the rhombus: ");
-        double side2 = sc.nextDouble();
-        double perimeter = (side + side2) * 2;
-        System.out.println("The perimeter of the rhombus is " + perimeter);
-        sc.close();
+import java.util.Scanner;
+public class area_Rhombus {
+    public static void main(String[] args) {
+        Scanner in= new Scanner(System.in);
+        System.out.println("enter the height of Rhombus: ");
+        float height= in.nextFloat();
+        System.out.println("enter the width of Rhombus: ");
+        Float width= in.nextFloat();
+        System.out.println("ans is: " + ((height*width)/2));
+        in.close()
     }
 }
