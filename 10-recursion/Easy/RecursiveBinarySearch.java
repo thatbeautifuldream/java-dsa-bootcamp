@@ -30,5 +30,6 @@ public class RecursiveBinarySearch {
         } else {
             System.out.println("The element " + key + " was found at " + index + "th position in the array(0-based-index).");
         }
+        sc.close();
     }
 }
