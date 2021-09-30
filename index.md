@@ -1,6 +1,4 @@
-# Java DSA Bootcamp | (👷🏻‍♂️ site under maintainance ⚠️)
-
-![java-dsa-bootcamp](https://socialify.git.ci/thatbeautifuldream/java-dsa-bootcamp/image?description=1&language=1&owner=1&pattern=Floating%20Cogs&theme=Dark)
+# Java DSA Bootcamp | (👷🏻‍♂️ under maintainance ⚠️)
 
 ## Syllabus [here](SYLLABUS.md)
 
