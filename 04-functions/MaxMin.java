@@ -12,20 +12,13 @@ public class MaxMin {
         System.out.println("Minimum number is " + min(a, b, c));
         in.close();
     }
-    public static int max(int a, int b, int c){
-        int max = a;
-        if(b > max)
-            max = b;
-        if(c > max)
-            max = c;
-        return max;
+    static void max(int n1, int n2, int n3)
+    {
+        System.out.println("the maximum is : " +Math.max(n1,  Math.max(n2, n3)));
     }
-    public static int min(int a, int b, int c){
-        int min = a;
-        if(b < min)
-            min = b;
-        if(c < min)
-            min = c;
-        return min;
+
+    static void min(int n1, int n2, int  n3)
+    {
+        System.out.println("the minimum is : " +Math.min(n1, Math.min(n2, n3)));
     }
 }
