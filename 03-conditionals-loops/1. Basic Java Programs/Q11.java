@@ -6,6 +6,6 @@ public class area_rectangle {
         float rect_len = in.nextFloat();
         System.out.println("enter the width of rectangle: ");
         float rect_wid = in.nextFloat();
-        System.out.println("ans is: " + (rect_len * rect_wid));
+        System.out.println("ans is: " + 2*(rect_len + rect_wid));
     }
 }
