@@ -6,6 +6,6 @@ public class area_Parallelogram {
         float base= in.nextFloat();
         System.out.println("enter the height of Parallelogram: ");
         float height= in.nextFloat();
-        System.out.println("ans is: " +(base*height));
+        System.out.println("ans is: " +2*(base+height));
     }
 }
