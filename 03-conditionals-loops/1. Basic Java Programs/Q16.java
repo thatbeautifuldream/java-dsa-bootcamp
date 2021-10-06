@@ -7,9 +7,8 @@ public class Q16 {
         double radius = sc.nextDouble();
         System.out.println("Enter the height of the cylinder: ");
         double height = sc.nextDouble();
-        System.out.println("Enter the volume of the cylinder: ");
-        double volume = sc.nextDouble();
-        System.out.println("The volume of the cylinder is: " + (volume * Math.PI * radius * radius * height));
+        double volume = Math.PI * (radius * radius) * height;
+        System.out.println("The volume of the cylinder is: " + volume);
         sc.close();
     }
 }
