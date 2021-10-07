@@ -4,10 +4,12 @@ public class Q18 {
         // volume of pyramid
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the height of the pyramid: ");
-        int height = sc.nextInt();
-        System.out.println("Enter the base of the pyramid: ");
-        int base = sc.nextInt();
-        int volume = (height * base * base) / 3;
+        double height = sc.nextInt();
+        System.out.println("Enter the width of the pyramid: ");
+        double width = sc.nextInt();
+        System.out.println("Enter the length of the pyramid: ");
+        double length = sc.nextInt();
+        double volume = (height * width * length) / 3;
         System.out.println("The volume of the pyramid is: " + volume);
         sc.close();
     }
