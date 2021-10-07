@@ -1,8 +1,12 @@
-![](https://cc-og-image.vercel.app/recursion%20(assignment).png?theme=dark&md=1&fontFamily=source-sans-pro&fontSize=100px&images=https%3A%2F%2Fcc-vocabulary.netlify.app%2Flogos%2Fproducts%2Fopen_source.svg%23opensource)
+# Videos
+- [Introduction to Recursion](https://youtu.be/M2uO2nMT0Bk)
+- [Recursion Level 1 Questions](https://youtu.be/JxILxTwHukM)
+
+# Problems
 
 ## Easy
 - [Sum Triangle from Array](https://www.geeksforgeeks.org/sum-triangle-from-array/) `GFG`
-- [Maximum and Minimum value in an array](https://www.geeksforgeeks.org/program-find-minimum-maximum-element-array/) `GFG`
+- [Maximum and Minimum value in an array](https://www.geeksforgeeks.org/recursive-programs-to-find-minimum-and-maximum-elements-of-array/) `GFG`
 - [First Uppercase Letter in a String](https://www.geeksforgeeks.org/first-uppercase-letter-in-a-string-iterative-and-recursive/) `GFG`
 - [Reverse String](https://leetcode.com/problems/reverse-string/) `leetcode`
 - [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) `leetcode`
@@ -32,6 +36,7 @@
 - [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) `leetcode`
 - [Pow(x, n)](https://leetcode.com/problems/powx-n/) `leetcode`
 - [Minimum Non-Zero Product of the Array Elements](https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/) `leetcode`
+- [HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=recursion&filters%5Bdifficulty%5D%5B%5D=medium)
 
 ## Hard
 - [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) `leetcode`
@@ -40,3 +45,4 @@
 - [Basic Calculator](https://leetcode.com/problems/basic-calculator/) `leetcode`
 - [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) `leetcode`
 - [Maximize Number of Nice Divisors](https://leetcode.com/problems/maximize-number-of-nice-divisors/) `leetcode`
+- [HackerRank](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=recursion&filters%5Bdifficulty%5D%5B%5D=hard)

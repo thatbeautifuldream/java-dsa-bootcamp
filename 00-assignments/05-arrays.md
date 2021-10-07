@@ -1,6 +1,4 @@
-![](https://cc-og-image.vercel.app/arrays%20(assignment).png?theme=dark&md=1&fontFamily=source-sans-pro&fontSize=100px&images=https%3A%2F%2Fcc-vocabulary.netlify.app%2Flogos%2Fproducts%2Fopen_source.svg%23opensource)
-
-[Video Link](https://youtu.be/n60Dn0UsbEk)
+# [Video Link](https://youtu.be/n60Dn0UsbEk)
 
 ## Submit the following on your Leetcode profile itself.
 
@@ -42,3 +40,4 @@
 ### Hard
 1. [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/)
 2. [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
+3. [Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/)

@@ -1,6 +1,4 @@
-![](https://cc-og-image.vercel.app/functions%20(assignment).png?theme=dark&md=1&fontFamily=source-sans-pro&fontSize=100px&images=https%3A%2F%2Fcc-vocabulary.netlify.app%2Flogos%2Fproducts%2Fopen_source.svg%23opensource)
-
-[Video Link](https://youtu.be/vvanI8NRlSI)
+# [Video Link](https://youtu.be/vvanI8NRlSI)
 
 1. [Define two methods to print the maximum and the minimum number respectively among three numbers entered by the user.](https://www.java67.com/2019/05/how-to-find-largest-and-smallest-of-three-numbers-in-java.html)
 
@@ -41,7 +39,7 @@ Also,
 
 10. [Write a function to find if a number is a palindrome or not. Take number as parameter.](https://www.geeksforgeeks.org/check-if-a-number-is-palindrome/)
 
-11. Convert the programs in [flow of program](1-flow-of-program.md), [conditionals & loops](3-conditionals-loops.md), [first java](2-first-java.md) assignments into functions.
+11. Convert the programs in [flow of program](01-flow-of-program.md), [first java](02-first-java.md), [conditionals & loops](03-conditionals-loops.md) assignments into functions.
 
 12. [Write a function to check if a given triplet is a Pythagorean triplet or not.](https://www.geeksforgeeks.org/find-pythagorean-triplet-in-an-unsorted-array/) (A Pythagorean triplet is when the sum of the square of two numbers is equal to the square of the third number).
 

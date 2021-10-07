@@ -1,5 +1,3 @@
-![](https://cc-og-image.vercel.app/searching%20(assignment).png?theme=dark&md=1&fontFamily=source-sans-pro&fontSize=100px&images=https%3A%2F%2Fcc-vocabulary.netlify.app%2Flogos%2Fproducts%2Fopen_source.svg%23opensource)
-
 # Videos:
 - [Linear Search](https://youtu.be/_HRA37X8N_Q)
 - [Binary Search](https://youtu.be/f6UU7V3szVw)
