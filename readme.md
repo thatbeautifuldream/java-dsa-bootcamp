@@ -10,7 +10,7 @@ Go to [`Kunal Kushwaha's 👨🏻‍💻`](https://github.com/kunal-kushwaha) co
 - [`👨🏻‍💻 Milind Mishra 👨🏻‍💻`](https://milind.bio.link)
 
 
-## 🚨 Contributors 🚨
+## Thanks to all the contributors ❤️
 
 <a href="https://github.com/thatbeautifuldream/java-dsa-bootcamp/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=thatbeautifuldream/java-dsa-bootcamp" />
