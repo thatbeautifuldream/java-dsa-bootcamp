@@ -5,8 +5,8 @@ public class Q19 {
         Scanner in = new Scanner(System.in);
         System.out.println("Enter the side of the cube");
         double side = in.nextDouble();
-        double curvedSurfaceArea = 4*side*side;
-        System.out.println("The curved surface area of the cube is " + curvedSurfaceArea);
+        double curvedSurfaceArea = 6*side*side;
+        System.out.println("The total surface area of the cube is " + curvedSurfaceArea);
         in.close();
     }
 }
