@@ -7,7 +7,7 @@ public class Q20 {
         double radius = in.nextDouble();
         System.out.print("Enter the height of the cylinder: ");
         double height = in.nextDouble();
-        double area = 2 * Math.PI * radius * height + 2 * Math.PI * radius * radius;
+        double area = 2 * Math.PI * radius * height;
         System.out.println("The surface area of the cylinder is " + area);
         in.close();
     }
