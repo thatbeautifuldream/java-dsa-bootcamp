@@ -7,11 +7,12 @@ public class Q21 {
         int n = input.nextInt();
         int a = 0;
         int b = 1;
+        System.out.print(a + " " +b);
         for(int i = 0; i < n; i++){
-            System.out.print(b + " ");
-            int temp = a;
+            int temp = a+b;
+            System.out.print(" " + temp);
             a = b;
-            b = temp + b;
+            b = temp;
         }
         input.close();   
     }
