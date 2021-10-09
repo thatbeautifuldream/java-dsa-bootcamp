@@ -1,3 +1,7 @@
 {
-  "java.project.sourcePaths": ["10-recursion/Easy", "05-arrays/Easy"]
+  "java.project.sourcePaths": [
+    "10-recursion/Easy",
+    "05-arrays/Easy",
+    "04-functions"
+  ]
 }
