@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch DecimalToAnyBase",
+      "request": "launch",
+      "mainClass": "DecimalToAnyBase",
+      "projectName": "java-dsa-bootcamp_b1f876ef"
+    },
+    {
+      "type": "java",
       "name": "Launch DigitFrequency",
       "request": "launch",
       "mainClass": "DigitFrequency",
