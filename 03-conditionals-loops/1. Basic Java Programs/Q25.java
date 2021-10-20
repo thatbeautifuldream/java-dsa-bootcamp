@@ -4,25 +4,47 @@ import java.util.Scanner;
 
 public class Q25 {
     public static void main(String[] args) {
-        Scanner in = new Scanner(System.in);
-        System.out.println("Please enter numbers: " );
-        int num = 0;
+//         Scanner in = new Scanner(System.in);
+//         System.out.println("Please enter numbers: " );
+//         int num = 0;
+//         int large = 0;
+//         int cont = 0;
+//         int small = 0;
+//         do{
+
+//             num = in.nextInt();
+//             small = in.nextInt();
+//             large = in.nextInt();
+//             if (cont == 0)
+//                 small = large = num;
+
+//             if(small<large){
+//                large = num;
+//             }
+//         }
+//         while(num != 0);
+//         System.out.println("Lagest no is: " +large);
+        
+        // to find the largest number among all the number till user input 0;
+         Scanner sc = new Scanner(System.in);
+         System.out.println("Please enter numbers: " );
+        int input = 0;
         int large = 0;
-        int cont = 0;
+        int counter = 0;
         int small = 0;
-        do{
+        while ((input = sc.nextInt()) != 0) {
 
-            num = in.nextInt();
-            small = in.nextInt();
-            large = in.nextInt();
-            if (cont == 0)
-                small = large = num;
+            if (counter == 0)
+                small = large = input;
 
-            if(small<large){
-               large = num;
-            }
+            counter++;
+
+            if (input > large)
+                large = input;
+
+            if (input < small)
+                small = input;
+
         }
-        while(num != 0);
-        System.out.println("Lagest no is: " +large);
     }
 }
