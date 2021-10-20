@@ -44,7 +44,7 @@ public class Q25 {
 
             if (input < small)
                 small = input;
-
         }
+         System.out.println(large);
     }
 }
