@@ -81,3 +81,60 @@ public class Patterns {
             System.out.println();
      }
     System.out.println("----------------------------------------------------------------"); 
+    /* Print the pattern
+    6.      *
+           **
+          ***
+         ****
+        *****
+    */
+     for(int i=1;i<=5;i++){
+		for(int j=1;j<=5-i;j++){
+			System.out.print(" ");
+		}
+		for(int j=1;j<=i;j++){
+			System.out.print("*");
+		}
+		System.out.println();
+	}
+    System.out.println("----------------------------------------------------------------");
+    /* Print the pattern
+    7.   *****
+          ****
+           ***
+            **
+             *
+    */
+    for(int i=5;i>=1;i--){
+		for(int j=1;j<=5-i;j++){
+			System.out.print(" ");
+		}
+		for(int j=i;j>=1;j--){
+			System.out.print("*");
+		}
+		System.out.println();
+	}
+    System.out.println("----------------------------------------------------------------");
+        
+    /* Print the pattern
+    
+    8.    *
+         ***
+        *****
+       *******
+      *********
+    
+    */
+        
+    for(int i=1,k=0;i<=5;++i,k=0){
+		for(int space=1;space<=5-i;++space){
+			System.out.print(" ");
+		}
+		while(k!=2*i-1){
+			System.out.print("*");
+			++k;
+		}
+		System.out.println();
+	}
+    System.out.println("----------------------------------------------------------------");    
+        
