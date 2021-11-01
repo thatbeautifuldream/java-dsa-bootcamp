@@ -12,7 +12,7 @@ public class Q13 {
         System.out.println("Enter Second Number: ");
         n2 = sc.nextInt();
 
-        sc.close();
+        sc.close(); 
         sum = n1 + n2;
         System.out.println("Sum of these numbers: "+sum);
     }
