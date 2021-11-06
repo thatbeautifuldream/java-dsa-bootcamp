@@ -1,0 +1,22 @@
+public class Primitives {
+    public static void main(String[] args) {
+/*      PRIMITIVE DATA TYPES:
+        INT
+        CHAR
+        FLOAT
+        DOUBLE
+        LONG
+        BOOLEAN
+*/
+//        EXAMPLES:
+        int value = 989;
+        char aLetter = 'a';
+        float decimal_value = 9.9f;
+        double largeDecimalValues = 909909.88990;
+        long largeNumber = 9234341909856L;
+        boolean tureFalse = true;
+
+
+        System.out.println();
+    }
+}
