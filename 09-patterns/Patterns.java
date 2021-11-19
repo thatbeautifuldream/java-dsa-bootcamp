@@ -634,12 +634,54 @@ System.out.println("------------------------------------------------------------
 	    
 /* Print the pattern	    
 
-30.         1
-          2 1 2
-        3 2 1 2 3
-      4 3 2 1 2 3 4
-    5 4 3 2 1 2 3 4 5
+31.      4 4 4 4 4 4 4  
+         4 3 3 3 3 3 4   
+         4 3 2 2 2 3 4   
+         4 3 2 1 2 3 4   
+         4 3 2 2 2 3 4   
+         4 3 3 3 3 3 4   
+         4 4 4 4 4 4 4
 */
+int n=5;
+int s=2*n-1;
+	//Upper half
+	for(int i=0;i<(s/2)+1;i++){
+		int m=n;
+		//Decreasing part
+		for(int j=0;j<i;j++){
+			Syste.out.printf("%d ",m);
+			m--;
+		}
+		//Constant part
+		for(int k=0;k<s-2*i;k++){
+			Syste.out.printf("%d ",n-i);
+		}
+		//Increasing part
+		m=n-i+1;
+		for(int l=0;l<i;l++){
+			Syste.out.printf("%d ",m);
+			m++;
+		}
+		Syste.out.println();
+	}
+	//Lower half
+	for(int i=s/2-1;i>=0;i--){
+		//Decreasing part
+		int m=n;
+		for(int j=0;j<i;j++){
+			System.out.printf("%d ",m);
+			m--;
+		}
+		for(int k=0;k<s-2*i;k++){
+			System.out.printf("%d ",n-i);
+		}
+		m=n-i+1;
+		for(int l=0;l<i;l++){
+			System.out.printf("%d ",m);
+			m++;
+		}
+		System.out.println();
+	}	    
 
 	    
 	  
