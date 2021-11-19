@@ -137,4 +137,108 @@ public class Patterns {
 		System.out.println();
 	}
     System.out.println("----------------------------------------------------------------");    
-        
+    
+   /* Print the pattern
+   
+   9.  *********
+        *******
+         *****
+          ***
+           *
+*/
+
+   int k=0;
+   for(int i=5;i>=1;--i){
+		for(int space=0;space<5-i;++space){
+			System.out.print(" ");
+		}
+		for(int j=i;j<=2*i-1;++j){
+			System.out.printf("%d ",++k);
+		}
+		for(j=0;j<i-1;++j){
+			System.out.printf("%d ",++k);
+		}
+		System.out.println();
+	}
+	  
+ System.out.println("----------------------------------------------------------------"); 
+	    
+/* Print the pattern
+
+10.      *
+        * *
+       * * *
+      * * * *
+     * * * * *
+*/
+	    
+for (int i = 0; i < 5; i++) {
+      for (int space = 1; space <= 5 - i; space++)
+         System.out.print("  ");
+      for (int j = 0; j <= i; j++) {
+         System.out.printf("%4c",'*');
+      }
+   System.out.println();
+   }
+ System.out.println("----------------------------------------------------------------"); 
+	    
+/* Print the pattern
+
+11.  * * * * *
+      * * * *
+       * * *
+        * *
+         *
+*/
+	    
+ for (int i = 5-1; i>=0; i--) {
+      for (int space = 1; space <= 5 - i; space++)
+         System.out.print("  ");
+      for (j = 0; j <= i; j++) {
+        System.out.printf("%4c",'*');
+      }
+      System.out.println();
+   }
+System.out.println("----------------------------------------------------------------"); 
+	    
+/* Print the pattern	    
+12.  * * * * *
+      * * * *
+       * * *
+        * *
+         *
+         *
+        * *
+       * * *
+      * * * *
+     * * * * *
+*/
+
+ for (int i = 5-1; i>=0; i--) {
+      for (int space = 1; space <= rows - i; space++)
+         System.out.print("  ");
+      for (int j = 0; j <= i; j++) {
+         System.out.printf("%4c",'*');
+      }
+      System.out.println();
+   }
+   for (i = 0; i < rows; i++) {
+      for (int space = 1; space <= 5 - i; space++)
+         System.out.print("  ");
+      for (j = 0; j <= i; j++) {
+         System.out.printf("%4c",'*');
+      }
+      System.out.println();
+   }
+   System.out.println("----------------------------------------------------------------"); 
+	    
+/* Print the pattern
+
+13.      *
+        * *
+       *   *
+      *     *
+     *********
+*/
+	    
+	    
