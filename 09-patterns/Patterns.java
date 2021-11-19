@@ -484,4 +484,162 @@ System.out.println("------------------------------------------------------------
 	    
 /* Print the pattern
 
+20.    ****
+       *  *
+       *  *
+       *  *
+       ****
+*/
 
+for(int i=1;i<=5;i++){
+		for(int j=1;j<=5-1;j++){
+			if(i==1||i==5)
+				System.out.print("*");
+			else{
+				if(j==1||j==5-1)
+					System.out.print("*");
+				else
+					System.out.print(" ");
+				}
+			}
+			System.out.println();
+		}	
+System.out.println("----------------------------------------------------------------"); 
+	    
+/* Print the pattern
+
+21.    1
+       2  3
+       4  5  6
+       7  8  9  10
+       11 12 13 14 15
+*/
+int number=1;
+for(int i=1;i<=5;i++){
+		for(int j=1;j<=i;++j){
+			System.out.printf("%d ",number);
+			++number;
+		}
+		System.out.println();
+	}
+System.out.println("----------------------------------------------------------------"); 
+	    
+/* Print the pattern
+
+22.    1
+       0 1
+       1 0 1
+       0 1 0 1
+       1 0 1 0 1
+*/
+int rows,col;
+	for(rows=1;rows<=5;rows++){
+		for(col=1;col<=rows;col++){
+			if((rows+col)%2==0){
+				System.out.print("1"+" ");
+			}
+			else{
+				System.out.print("0"+" ");
+			}
+		}
+		System.out.println();
+	}
+System.out.println("----------------------------------------------------------------"); 
+	    
+/* Print the pattern
+25.       *****
+         *   *
+        *   *
+       *   *
+      *****
+*/
+
+for(int i=0;i<5;i++){
+		for(int j=0;j<5-i;j++){
+			System.out.print(" ");//Leading spaces
+		}
+		for(int j=0;j<5;j++){
+			//upper horizontal, bottom horizontal, left diagonal, right diagonal
+			if(i==0||i==5-1||j==0||j==5-1)
+				System.out.print("*");
+			else
+				System.out.print(" ");
+		}
+		System.out.println();
+	}	    
+System.out.println("----------------------------------------------------------------"); 
+	    
+/* Print the pattern
+
+26.   1 1 1 1 1 1
+      2 2 2 2 2
+      3 3 3 3
+      4 4 4
+      5 5
+      6
+*/
+
+	int rows,col,num=1
+	for(rows=5;rows>=1;rows--){
+		for(col=1;col<=rows;col++){
+			System.out.printf("%d ",num);
+		}
+		num++;
+		System.out.println();
+	}
+	System.out.println("----------------------------------------------------------------"); 
+	    
+/* Print the pattern
+29.      
+       *        *
+       **      **
+       ***    ***
+       ****  ****
+       **********
+       **********
+       ****  ****
+       ***    ***
+       **      **
+       *        *
+*/
+//upper half of the pattern
+	for(int i=0;i<5;i++){
+		for(int j=0;j<(2*5);j++){
+			if(i>=j)//upper left triangle
+				System.out.print("*");
+			else
+				System.out.print(" ");
+			if(i>=(2*5-1)-j)//upper right triangle
+				System.out.print("*");
+			else
+				System.out.print(" ");
+		}
+		System.out.println();
+	}
+	//bottom half of the pattern
+	for(int i=0;i<5;i++){
+		for(int j=0;j<(2*5);j++){
+			if(i+j<=5-1)//bottom left triangle
+				System.out.print("*");
+			else
+				System.out.print(" ");
+			if((i+5)<=j)//bottom right triangle
+				System.out.print("*");
+			else
+				System.out.print(" ");
+		}
+		System.out.println();
+	}
+System.out.println("----------------------------------------------------------------"); 
+	    
+/* Print the pattern	    
+
+30.         1
+          2 1 2
+        3 2 1 2 3
+      4 3 2 1 2 3 4
+    5 4 3 2 1 2 3 4 5
+*/
+
+	    
+	  
