@@ -1,0 +1,64 @@
+//import java.util.Scanner;
+//
+//public class TypeCasting {
+//    public static void main(String[] args) {
+///*        IN THE TYPECASTING THE ENTERED VALUE OF ONE PRIMITIVE DATA TYPE
+//           CHANGE INTO ANOTHER DATATYPE FOR EXAMPLE: */
+//
+//
+////        TYPE1:
+//        Scanner input = new Scanner(System.in);
+//        System.out.print("Enter any float value:");   //ENTER ANY INTEGER VALUE (FOR EXAMPLE: 989)
+//        float num = input.nextFloat();
+//        System.out.println(num);                      // OUTPUT: 989.0
+//
+///*        IN THE ABOVE EXAMPLE THE ENTERED DATATYPE IS INTEGER BUT THE ASSIGNED DATATYPE IS FLOAT
+//          THAT IS WHY THE OUTCOME RESULT IS FLOAT.   */
+//
+//
+////         TYPE2: COMPRESSING THE BLIGGER NUMBER INTO SMALLER TYPE EXPLECITYLY
+//        int number = (int)(989.234f);
+//        System.out.println(number);
+//
+////        TYPE3: AUTOMATIC TYPE PROMOTION IN EXPRESSION
+//        //***range of integer value is from 1-256 that is from index 0-255***
+//
+//        //EXAMPLE 1
+//        int a = 258;
+//        int b = (byte)(a);
+//        System.out.println(b);        //OUTPUT: 2 (BECAUSE HERE 258 % 256 = 2)
+//
+//        //EXAMPLE 2
+//        byte a = 40;
+//        byte b = 30;
+//        byte c = 80;
+//        int d = a*b/c;
+//        System.out.println(d);
+//
+//
+//        //EXAMPLE 3
+//        int a = 'a';
+//        int b = 'A';
+//        System.out.println(a);
+//        System.out.println(b);
+******************************************************************************************************************************************************************************
+//        //**********JAVA FOLLOW THE UNICODE PRINCIPAL***********for example
+//
+//        System.out.println("नमस्ते in Hindi");
+//        System.out.println("안녕하십니까 in Japanese");
+//        System.out.println("Привет in Russian");
+//        System.out.println("হ্যালো in Bengali");
+******************************************************************************************************************************************************************************
+//        byte b = 23;
+//        short s = 988;
+//        char c = 'z';
+//        long l = 213984;
+//        double d = 98908999;
+//        int i = 234;
+//        float f = 3.57896f;
+////        float + int - double = double
+//        double result = (f*b)+(i/c)-(d*s);
+//        System.out.println((f*b)+"          "+(i/c)+"        "+(d*s));
+//        System.out.println(result);
+//    }
+//}
