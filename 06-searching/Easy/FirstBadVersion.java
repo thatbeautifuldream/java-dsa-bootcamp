@@ -5,6 +5,9 @@
 
       public class Solution extends VersionControl {
         public int firstBadVersion(int n) {
+
+// time complexity(Worst case) : O(logN) and space complexity : O(1)
+
             int start = 0;
             int end = n;
             

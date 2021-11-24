@@ -2,6 +2,9 @@
 
 class Solution {
     public int countNegatives(int[][] grid) {
+
+// time complexity(Worst case) : O(NlogN) and space complexity : O(1)
+
         int ans = 0;
         for(int i = 0; i < grid.length; i++ ){
             ans = ans + bs(grid[i]);

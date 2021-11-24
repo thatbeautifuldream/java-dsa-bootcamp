@@ -2,6 +2,9 @@
 
 class Solution {
     public int peakIndexInMountainArray(int[] arr) {
+
+// time complexity(Worst case) : O(logN) and space complexity : O(1)
+
         int start = 0, mid = 0, end = arr.length - 1;
         while(start < end) {
             mid = start + (end - start)/2;
