@@ -2,6 +2,9 @@
 
 class Solution {
     public int searchInsert(int[] nums, int target) {
+
+// time complexity(Worst case) : O(logN) and space complexity : O(1)
+
         int start = 0, mid = 0, end = nums.length - 1;
         while(start <= end) {
             mid = start + (end - start)/2;

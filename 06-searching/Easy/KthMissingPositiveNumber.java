@@ -2,6 +2,9 @@
 
 class Solution {
     public int findKthPositive(int[] arr, int k) {
+
+// time complexity(Worst case) : O(logN) and space complexity : O(1)
+
         int start = 0;
         int end = arr.length - 1;
         while(start <= end) {

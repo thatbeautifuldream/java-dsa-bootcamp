@@ -10,6 +10,9 @@
 
 public class Solution extends GuessGame {
     public int guessNumber(int n) {
+
+// time complexity(Worst case) : O(logN) and space complexity : O(1)
+
         int start = 1;
         int end = n;
         

@@ -2,6 +2,9 @@
 
 class Solution {
     public boolean isPerfectSquare(int num) {
+
+// time complexity(Worst case) : O(logN) and space complexity : O(1)
+
         long left=0;
         long right=num; 
         while(left<=right)

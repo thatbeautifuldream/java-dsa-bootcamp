@@ -2,6 +2,9 @@ package Searching.Easy;
 
 public class SquareRoot {
     public int mySqrt(int x) {
+
+// time complexity(Worst case) : O(logN) and space complexity : O(1)
+
         int start = 1;
         int end = x/2;
         int sqrt = start + (end - start)/2;
