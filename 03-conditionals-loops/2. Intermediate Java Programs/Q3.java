@@ -16,3 +16,21 @@ public class Q3 {
         in.close();
     }
 }
+
+// sum =n*(n+1)/2
+// so average is n+1/2
+
+package com.Intermediate_Java_Programs;
+import java.util.Scanner;
+
+public class kk_3_Aver_N_nos {
+    public static void main(String[] args) {
+        int n;
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter the number of elements: ");
+        n = sc.nextInt();
+        float average = (float)(n+1)/2;
+
+        System.out.println("Average is: " + average);
+    }
+}
