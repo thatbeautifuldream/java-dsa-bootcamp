@@ -2,7 +2,7 @@
 
 Go to [`Kunal Kushwaha's 👨🏻‍💻`](https://github.com/kunal-kushwaha) course repository : [`☕️ Java DSA Bootcamp`](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
 
-![java-dsa-bootcamp](https://socialify.git.ci/thatbeautifuldream/java-dsa-bootcamp/image?description=1&language=1&owner=1&pattern=Floating%20Cogs&theme=Dark)
+![java-dsa-bootcamp](https://socialify.git.ci/thatbeautifuldream/java-dsa-bootcamp/image?description=1&font=KoHo&forks=1&issues=1&language=1&name=1&owner=1&pattern=Solid&pulls=1&stargazers=1&theme=Dark)
 
 <div align="center">
   
