@@ -6,9 +6,9 @@ Go to [`Kunal Kushwaha's 👨🏻‍💻`](https://github.com/kunal-kushwaha) co
 
 <div align="center">
   
-  <a href="https://github.com/thatbeautifuldream/java-dsa-bootcamp/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/thatbeautifuldream/java-dsa-bootcamp"></a>
-  <a href="https://github.com/thatbeautifuldream/java-dsa-bootcamp/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/thatbeautifuldream/java-dsa-bootcamp"></a>
   <a href="https://github.com/thatbeautifuldream/java-dsa-bootcamp/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/thatbeautifuldream/java-dsa-bootcamp"></a>
+  <a href="https://github.com/thatbeautifuldream/java-dsa-bootcamp/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/thatbeautifuldream/java-dsa-bootcamp"></a>
+  <a href="https://github.com/thatbeautifuldream/java-dsa-bootcamp/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/thatbeautifuldream/java-dsa-bootcamp"></a>
   <a href="https://github.com/thatbeautifuldream/java-dsa-bootcamp/blob/main/license"><img alt="GitHub license" src="https://img.shields.io/github/license/thatbeautifuldream/java-dsa-bootcamp"></a>
   
   <h3>⚠️ 🚨 this repository is now accepting contributors 🚨 ⚠️</h3>
