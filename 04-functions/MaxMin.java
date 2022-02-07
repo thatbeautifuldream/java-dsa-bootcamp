@@ -16,6 +16,8 @@ public class MaxMin {
         int max = a;
         if(b > max)
             max = b;
+        System.out.println( b + " is the maximum number.");
+        
         if(c > max)
             max = c;
         return max;
@@ -24,6 +26,8 @@ public class MaxMin {
         int min = a;
         if(b < min)
             min = b;
+        System.out.println( b + " is the minimum number.");
+        
         if(c < min)
             min = c;
         return min;
