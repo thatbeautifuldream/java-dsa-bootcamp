@@ -11,7 +11,7 @@ Go to [`Kunal Kushwaha's 👨🏻‍💻`](https://github.com/kunal-kushwaha) co
   <a href="https://github.com/thatbeautifuldream/java-dsa-bootcamp/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/thatbeautifuldream/java-dsa-bootcamp"></a>
   <a href="https://github.com/thatbeautifuldream/java-dsa-bootcamp/blob/main/license"><img alt="GitHub license" src="https://img.shields.io/github/license/thatbeautifuldream/java-dsa-bootcamp"></a>
   
-  <h3>⚠️ 🚨 this repository is now accepting contributors 🚨 ⚠️</h3>
+  <h3>⚠️ 🚨 this repository is now inactive due to my exams will resume asap 🚨 ⚠️</h3>
   <h1>🌟 star this repository if you found it helpful 🌟</h1>
   
 </div>
