@@ -34,7 +34,7 @@ Go to [`Kunal Kushwaha's 👨🏻‍💻`](https://github.com/kunal-kushwaha) co
 
 ## Assignment Author 👷
 
-- [`👨🏻‍💻 Milind Mishra 👨🏻‍💻`](https://milind.bio.link)
+- [`Milind Mishra`](https://milind.bio.link)
 
 ## Thanks to all the contributors ❤️
 
