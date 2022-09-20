@@ -1,10 +1,8 @@
 ![java-dsa-bootcamp](https://socialify.git.ci/thatbeautifuldream/java-dsa-bootcamp/image?description=1&font=KoHo&forks=1&issues=1&language=1&name=1&owner=1&pattern=Solid&pulls=1&stargazers=1&theme=Dark)
 
-<div align="center">
+## Star History
 
-  ## Star History
-
-  [![Star History Chart](https://api.star-history.com/svg?repos=thatbeautifuldream/java-dsa-bootcamp&type=Timeline)](https://star-  history.com/#thatbeautifuldream/java-dsa-bootcamp&Timeline)
+[![Star History Chart](https://api.star-history.com/svg?repos=thatbeautifuldream/java-dsa-bootcamp&type=Timeline)](https://star-history.com/#thatbeautifuldream/java-dsa-bootcamp&Timeline)
   
 </div>
 
